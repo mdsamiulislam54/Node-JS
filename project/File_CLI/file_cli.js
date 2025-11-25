@@ -68,6 +68,8 @@ fs.mkdir((path.join(__dirname, "organized_files")), { recursive: true }, (err) =
         });
 
 
+
+
     });
 
 });
